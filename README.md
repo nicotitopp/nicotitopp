@@ -36,62 +36,25 @@ Me gusta enfrentar retos, aprender nuevas herramientas y aportar ideas frescas a
 
 <br><br>
 
+----
 
-<!---Language-->
+<!--Language-->
 <div align="center">
-  <h2 align="center">Language🚀</h2>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="65">
-</div>
-<br>
-
-
-<!--FrontEnd Technologies-->
-<div align="center">
-  <h2 align="center">FrontEnd Technologies🚀</h2>
+  <h2 align="center">Languages and Tools🚀</h2>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind CSS" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="65">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" alt="Vite" width="65">      
-
-</div>
-<br>
-
-
-<!--Backend Tecnologies-->
-<div align="center">
-  <h2 align="center">Backend Technologies🚀</h2>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="70" height="75">
-</div>
-<br>
-
-
-<!--Database-->
-<div align="center">
-  <h2 align="center">Database🚀</h2>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" alt="Vite" width="65">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="Mongo DB" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="65">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node js" width="65">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="65">
+
 </div>
 <br>
-
-
-<!--Run Time Environment-->
-<div align="center">
-    <h2 align="center">Run Time Environment🚀</h2>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node js" width="65">
-</div>
-<br>
-
-
-<!--API Development and Testing-->
-
-<!--IDE'S-->
-<div align="center">
-  <h2 align="center">IDE's 🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
-</div>
-<br><br>
 
 <!-- Visitor's -->
 ----
@@ -101,7 +64,7 @@ Me gusta enfrentar retos, aprender nuevas herramientas y aportar ideas frescas a
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🫱🏾‍🫲🏿</h2></summary>
   </ul>
 </div>
 
@@ -112,24 +75,35 @@ Me gusta enfrentar retos, aprender nuevas herramientas y aportar ideas frescas a
   <a href="https://www.instagram.com/nicotito_/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" 
 width="50" /></a>
   <a href="dilan182003@gmail.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" height="50" width="50" /></a>
+  
 </p>
 
+----
 
+<br>
 
 <!-- Github Stats 1-->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=nicotitopp&show_icons=true&theme=gotham#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicotitopp&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+</div>
+
+<br>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=nicotito07&count=1" alt="Spotify recently played" />
 </p>
 
 
 <!-- Github Stats 2-->
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
-
 
 <!--FOOTER-->
-<p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
-<p align="center">Made with ❤️ by Neeraj</p>
 
 
 <!--Footer GIF-->
@@ -140,10 +114,3 @@ width="50" /></a>
 
 
 
-
-
-<!---CREDIT SECTION-->
-
-------
-Credit:[neerajhariyale](https://github.com/neerajhariyale)
-Last Edited on: 03/03/2025
