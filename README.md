@@ -22,9 +22,9 @@ Me gusta aprender nuevas tecnologías y trabajar en proyectos que mezclen diseñ
 ---
 
 ### 📊 Estadísticas de GitHub
-![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicotitopp&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicotitopp&layout=compact&theme=radical)
 
 ---
 
