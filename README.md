@@ -1,6 +1,6 @@
 <!--Header Image-->
 <p align="center">
-  <img src="bannerGithub" height="200"/>
+  <img src="bannerGithub.gif" height="200"/>
 </p>
 
 
