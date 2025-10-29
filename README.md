@@ -56,27 +56,7 @@ Me gusta enfrentar retos, aprender nuevas herramientas y aportar ideas frescas a
 </div>
 <br>
 
-<!-- Visitor's -->
 ----
-
-
-<!-- Connect with me TEXT -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🫱🏾‍🫲🏿</h2></summary>
-  </ul>
-</div>
-
-
-<!--Connect With ME icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/dilan-nicolas-pe%C3%B1a-866775254/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/nicotito_/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" 
-width="50" /></a>
-  <a href="dilan182003@gmail.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" height="50" width="50" /></a>
-  
-</p>
 
 ----
 
@@ -84,12 +64,12 @@ width="50" /></a>
 
 <!-- Github Stats 1-->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=nicotitopp&show_icons=true&theme=gotham#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicotitopp&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
+  <p>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=nicotitopp&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats"/>
+  </p>
+  <p>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicotitopp&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+  </p>
 </div>
 
 <br>
@@ -100,16 +80,34 @@ width="50" /></a>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=nicotito07&count=1" alt="Spotify recently played" />
 </p>
 
+---
 
-<!-- Github Stats 2-->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🫱🏾‍🫲🏿</h2></summary>
+  </ul>
+<!--Connect With ME icons and links-->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/dilan-nicolas-pe%C3%B1a-866775254/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50"     width="50" />
+    </a>
+    <a href="https://www.instagram.com/nicotito_/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" 
+  width="50" />
+    </a>
+    <a href="dilan182003@gmail.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" height="50" width="50" />
+    </a>
+  </p>
+</div>
 
-<!--FOOTER-->
+<br>
 
 
 <!--Footer GIF-->
 <p align="center">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+
 
 
 
